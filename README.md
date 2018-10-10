@@ -6,6 +6,7 @@
  - 工作年限：5年
  - 微信/QQ：56171014
  - 电话: 18895660822、18601611630
+ - Email: graped@aliyun.com
  - Github：[https://github.com/Graped](https://github.com/Graped)
  - 技术博客：[http://www.grapedlinux.cn/](http://www.grapedlinux.cn/)
 
@@ -110,6 +111,7 @@
 
 - [干货 | XtraBackup不停机不锁表搭建MySQL主从同步实践](http://www.grapedlinux.cn/2017/03/23/17032302/)
 - [工具 | 网盘单机数据库&数据块冷备](https://box.lenovo.com/l/951N0R)
+- [工具 | 利用Ansible推送Nginx并加入开机启动](https://github.com/Graped/ansibleinstallnginx)
 
 
 
