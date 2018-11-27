@@ -5,7 +5,7 @@
  - 研究生/中国科技大学
  - 工作年限：5年
  - 微信/QQ：56171014
- - 电话: 18895660822、18601611630
+ - 电话: 18895660822
  - Email: graped@aliyun.com
  - Github：[https://github.com/Graped](https://github.com/Graped)
  - 技术博客：[http://www.grapedlinux.cn/](http://www.grapedlinux.cn/)
@@ -48,7 +48,7 @@
 
 # 工作经历
 
-## **联想集团**   (2017年4月-至今）
+## **联想集团**   (2017年4月-2018年12月）
 > 联想云G15 高级Linux运维工程师
 ### 联想云非结构化数据管理平台
 
